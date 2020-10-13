@@ -15,5 +15,10 @@ Tech Skills:
 - JavaScript (coming soon)
 - React (coming soon)
 
-LinkedIn: https://www.linkedin.com/in/rashidathompson
-Twitter: https://www.twitter.com/heyrashida
+Portfolio:
+
+- [Landing Page]("https://practicum-project-1.netlify.app/")
+
+  LinkedIn: <https://www.linkedin.com/in/rashidathompson>
+  Twitter: <https://www.twitter.com/heyrashida>
+  GitHub: <https://www.github.com/rashidathompson>
