@@ -17,4 +17,7 @@ What major concepts did we cover this time?
 
 ## What went well:
 
+- _Creating the nested BEM structure._ There were _literally_ levels to this. Because there were so many blocks & each block had multiple elements, it was really easy to fall down the rabbit hole with the nested folder & @import at-rules. Once I got the hang of it, I was able to easily set up the remaining folders.
+- _Setting up the keyframes._ I found this to be one of the easier tasks this time around & it was also pretty fun. We only had one animation (a rotation for the background images) so the keyframe wasn't very complex. I definitely want to explore animations a little bit more. We didn't get nearly enough of it in this project!
+
 ## What didn’t go well:
