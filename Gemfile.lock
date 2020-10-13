@@ -35,7 +35,6 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-swiss (1.0.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.0)
@@ -73,8 +72,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.11)
   jekyll-seo-tag (~> 2.5)
   jekyll-sitemap (~> 1.2)
-  jekyll-swiss
-  minima (~> 2.5)
+  minima
   tzinfo-data
 
 BUNDLED WITH
