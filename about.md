@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! I'm Rashida & I'm based in Atlanta, GA. I'm a single mom of 1 & current bootcamp student at [Practicum]("practicum.yandex.com").
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am actively looking for front-end developer opportunities. Please reach out to me at [rashida.m.thompson@gmail.com]("mailto:rashida.m.thompson@gmail.com") for any roles for which I may be a good fit.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Tech Skills:
 
+- HTML
+- CSS
+- JavaScript (coming soon)
+- React (coming soon)
 
-[jekyll-organization]: https://github.com/jekyll
+LinkedIn: https://www.linkedin.com/in/rashidathompson
+Twitter: https://www.twitter.com/heyrashida
