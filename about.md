@@ -21,6 +21,6 @@ I am actively looking for front-end developer opportunities. Please reach out to
 
 ## Where you can find me on the WWW
 
-LinkedIn: <https://www.linkedin.com/in/rashidathompson>
-Twitter: <https://www.twitter.com/heyrashida>
-GitHub: <https://www.github.com/rashidathompson>
+- LinkedIn: <https://www.linkedin.com/in/rashidathompson>
+- Twitter: <https://www.twitter.com/heyrashida>
+- GitHub: <https://www.github.com/rashidathompson>
